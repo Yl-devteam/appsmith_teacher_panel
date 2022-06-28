@@ -69,7 +69,7 @@
       "appsmith.mode==\"EDIT\"||appsmith.mode==\"edit\"?\"edit\":\"\""
     ],
     "userSetOnLoad": false,
-    "confirmBeforeExecute": false,
+    "confirmBeforeExecute": true,
     "policies": [],
     "userPermissions": []
   },
