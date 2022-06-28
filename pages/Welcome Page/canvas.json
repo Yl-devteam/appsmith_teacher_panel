@@ -220,7 +220,7 @@
             {
               "id": "Welcome Page_oauth_continue",
               "name": "oauth_continue",
-              "confirmBeforeExecute": true,
+              "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
                 "appsmith.mode==\"EDIT\"||appsmith.mode==\"edit\"?\"edit\":\"\"",
